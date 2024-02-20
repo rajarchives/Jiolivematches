@@ -29,3 +29,9 @@ https://prod-ent-live-gm.jiocinema.com/hls/live/2100299/hd_akamai_androidmob_avc
 https://prod-ent-live-gm.jiocinema.com/hls/live/2099776/hd_akamai_iosmob_avc_bhoj_indvseng_test03day04180224/master.m3u8
 #EXTINF:-1 tvg-logo="https://v3img.voot.com/v3Storage/assets/jc_logo_stack-1682163295957.jpg" group-title="JIO - Livematches",Punjabi Adsfree
 https://prod-ent-live-gm.jiocinema.com/hls/live/2099781/hd_akamai_iosmob_avc_punj_indvseng_test03day04180224/master.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wMi9NYXRjaC01X1BTTF9PbGQtTWF0Y2gtQ2FyZC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiY292ZXIiLCJwb3NpdGlvbiI6InRvcCIsIndpZHRoIjo5MzAsImhlaWdodCI6NDE0fX0sIm91dHB1dEZvcm1hdCI6IndlYnAifQ==" group-title="JIO - Livematches",Fancode PSL
+https://dai.fancode.com/primary/93842_english_hls_5402ta-no/1080p.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvZmMtd2ViLWxvZ28vZmNfbG9nb193aGl0ZV9iZy5zdmciLCJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiY29udGFpbiIsImJhY2tncm91bmQiOiJ0cmFuc3BhcmVudCIsIndpZHRoIjozMTIsImhlaWdodCI6OTZ9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9" group-title="JIO - Livematches",Fancode PSL Auto
+https://dai.google.com/linear/hls/event/eJB0v7XXTa-kZttmxGbPKQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnDVpEXsPk40OJX-eM298OCsBq_H6ToAyOxw&usqp=CAU" group-title="JIO - Livematches",PSL Tamaasha App
+https://tencentscdn2.tamashaweb.com/v1/018ad584681c09831f17035dc819/018ad58586961eb401a60363c44c/tamashapsl2024_clone_1080p.m3u8
