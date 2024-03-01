@@ -44,6 +44,6 @@ http://prod-ent-live-gm.jiocinema.com/hls/live/2100323/hd_akamai_androidmob_avc_
 #EXTINF:-1 tvg-logo="https://v3img.voot.com/v3Storage/assets/jc_logo_stack-1682163295957.jpg" group-title="JIO - Livematches",WPL Hindi Auto
 https://prod-sports-hin-gm.jiocinema.com/hls/live/2100323/hd_akamai_iosmob_avc_hin_wpl_s1_m1010324/master.m3u8
 #EXTINF:-1 tvg-logo="https://bplt20.com.bd/images/bpl-logo-2024.gif" group-title="JIO - Livematches",BPL
-https://dai.fancode.com/primary/90987_english_hls_5471ta-di/index.m3u8
+https://dai.fancode.com/primary/90988_english_hls_5576ta-no/index.m3u8
 #EXTINF:-1 tvg-logo="https://bplt20.com.bd/images/bpl-logo-2024.gif" group-title="JIO - Livematches",BPL Fancode India
 https://dai.google.com/linear/hls/event/g0jTJTIdSl62OdeAEIdyvA/master.m3u8
