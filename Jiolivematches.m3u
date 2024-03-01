@@ -38,11 +38,11 @@ https://tencentscdn2.tamashaweb.com/v1/018ad584681c09831f17035dc819/018ad5858696
 #EXTINF:-1 tvg-logo="https://v3img.voot.com/v3Storage/assets/jc_logo_stack-1682163295957.jpg" group-title="JIO - Livematches",WPL Hindi 4k online
 https://live.himel-himu@1rdk.short.gy/JioCinema/WPL-2024/Hin-4k/Himel-Op.m3u8
 #EXTINF:-1 tvg-logo="https://v3img.voot.com/v3Storage/assets/jc_logo_stack-1682163295957.jpg" group-title="JIO - Livematches",WPL Hindi 4k
-https://prod-ent-live-gm.jiocinema.com/hls/live/2100322/uhd_akamai_ctv_avc_hin_wpl_s1_m1290224/index.m3u8
+https://prod-ent-live-gm.jiocinema.com/hls/live/2100322/uhd_akamai_ctv_avc_hin_wpl_s1_m1010324/index.m3u8
 #EXTINF:-1 tvg-logo="https://v3img.voot.com/v3Storage/assets/jc_logo_stack-1682163295957.jpg" group-title="JIO - Livematches",WPL Hindi Adsfree
-http://prod-ent-live-gm.jiocinema.com/hls/live/2100323/hd_akamai_androidmob_avc_hin_wpl_s1_m1290224/master.m3u8
+http://prod-ent-live-gm.jiocinema.com/hls/live/2100323/hd_akamai_androidmob_avc_hin_wpl_s1_m1010324/master.m3u8
 #EXTINF:-1 tvg-logo="https://v3img.voot.com/v3Storage/assets/jc_logo_stack-1682163295957.jpg" group-title="JIO - Livematches",WPL Hindi Auto
-https://prod-sports-hin-gm.jiocinema.com/hls/live/2100323/hd_akamai_iosmob_avc_hin_wpl_s1_m1290224/master.m3u8
+https://prod-sports-hin-gm.jiocinema.com/hls/live/2100323/hd_akamai_iosmob_avc_hin_wpl_s1_m1010324/master.m3u8
 #EXTINF:-1 tvg-logo="https://bplt20.com.bd/images/bpl-logo-2024.gif" group-title="JIO - Livematches",BPL
 https://dai.fancode.com/primary/90987_english_hls_5471ta-di/index.m3u8
 #EXTINF:-1 tvg-logo="https://bplt20.com.bd/images/bpl-logo-2024.gif" group-title="JIO - Livematches",BPL Fancode India
