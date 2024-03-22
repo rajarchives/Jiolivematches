@@ -41,3 +41,5 @@ https://prod-ent-live-gm.jiocinema.com/hls/live/2100322/uhd_akamai_ctv_avc_hin_i
 http://prod-ent-live-gm.jiocinema.com/hls/live/2100323/hd_akamai_androidmob_avc_hin_ipl_s1_m1220324/master.m3u8
 #EXTINF:-1 tvg-logo="https://v3img.voot.com/v3Storage/assets/jc_logo_stack-1682163295957.jpg" group-title="JIO - Livematches",IPL Hindi Auto
 https://prod-ent-live-gm.jiocinema.com/hls/live/2100323/hd_akamai_androidmob_avc_hin_ipl_s1_m1220324/master.m3u8
+#EXTINF:-1 tvg-logo="https://v3img.voot.com/v3Storage/assets/jc_logo_stack-1682163295957.jpg" group-title="JIO - Livematches",IPL Jiocinema Live
+https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JV_SportsHD15_DIG_MOB/Fallback/index.m3u8
