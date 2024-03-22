@@ -7,12 +7,16 @@ https://prod-ent-live-gm.jiocinema.com/hls/live/2100323/hd_akamai_androidmob_avc
 https://prod-sports-north-gm.jiocinema.com/hls/live/2109762/hd_akamai_androidmob_avc_bhoj_ipl_s1_m1220324/master.m3u8
 #EXTINF:-1 tvg-logo="https://v3img.voot.com/v3Storage/assets/jc_logo_stack-1682163295957.jpg" group-title="JIO - Livematches",Punjabi
 https://prod-sports-north-fa.jiocinema.com/hls/live/2109756/hd_akamai_androidmob_avc_pun_ipl_s1_m1220324/master.m3u8
-#EXTINF:-1 tvg-logo="https://v3img.voot.com/v3Storage/assets/jc_logo_stack-1682163295957.jpg" group-title="JIO - Livematches",Action Cam
-https://prod-sports-multiangle-gm.jiocinema.com/hls/live/2099801/hd_akamai_iosmob_avc_cam02_ipl_s1_m1220324/master.m3u8
+#EXTINF:-1 tvg-logo="https://v3img.voot.com/v3Storage/assets/jc_logo_stack-1682163295957.jpg" group-title="JIO - Livematches",Dhoni Cam
+https://prod-sports-multiangle-gm.jiocinema.com/hls/live/2109671/hd_akamai_iosmob_avc_cam04_ipl_s1_m1220324/master.m3u8
 #EXTINF:-1 tvg-logo="https://v3img.voot.com/v3Storage/assets/jc_logo_stack-1682163295957.jpg" group-title="JIO - Livematches",Batter Cam
-https://prod-sports-multiangle-gm.jiocinema.com/hls/live/2099085/hd_akamai_iosmob_avc_cam04_ipl_s1_m1220324/master.m3u8
-#EXTINF:-1 tvg-logo="https://v3img.voot.com/v3Storage/assets/jc_logo_stack-1682163295957.jpg" group-title="JIO - Livematches",Bowler Cam
-https://prod-sports-multiangle-gm.jiocinema.com/hls/live/2099085/hd_akamai_iosmob_avc_cam03_ipl_s1_m1220324/master.m3u8
+https://prod-sports-multiangle-gm.jiocinema.com/hls/live/2109674/hd_akamai_iosmob_avc_cam01_ipl_s1_m1220324/master.m3u8
+#EXTINF:-1 tvg-logo="https://v3img.voot.com/v3Storage/assets/jc_logo_stack-1682163295957.jpg" group-title="JIO - Livematches",Birds Cam
+https://prod-sports-multiangle-gm.jiocinema.com/hls/live/2109672/hd_akamai_iosmob_avc_cam03_ipl_s1_m1220324/master.m3u8
+#EXTINF:-1 tvg-logo="https://v3img.voot.com/v3Storage/assets/jc_logo_stack-1682163295957.jpg" group-title="JIO - Livematches",Multiview Cam
+https://prod-sports-multiangle-gm.jiocinema.com/hls/live/2109670/hd_akamai_iosmob_avc_cam05_ipl_s1_m1220324/master.m3u8
+#EXTINF:-1 tvg-logo="https://v3img.voot.com/v3Storage/assets/jc_logo_stack-1682163295957.jpg" group-title="JIO - Livematches",Stump Cam
+https://prod-sports-multiangle-gm.jiocinema.com/hls/live/2109673/hd_akamai_iosmob_avc_cam02_ipl_s1_m1220324/master.m3u8
 #EXTINF:-1 tvg-logo="https://v3img.voot.com/v3Storage/assets/jc_logo_stack-1682163295957.jpg" group-title="JIO - Livematches",English 4K
 https://prod-ent-live-gm.jiocinema.com/hls/live/2100297/uhd_akamai_ctv_avc_eng_ipl_s1_m1220324/master.m3u8
 #EXTINF:-1 tvg-logo="https://v3img.voot.com/v3Storage/assets/jc_logo_stack-1682163295957.jpg" group-title="JIO - Livematches",Hindi 4K
