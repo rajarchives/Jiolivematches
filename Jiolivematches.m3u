@@ -59,6 +59,9 @@ https://prod-ent-live-gm.jiocinema.com/out/v1/caaeaeef7b784a77a99422df665175e9/m
 #EXTINF:-1 tvg-logo="https://v3img.voot.com/v3Storage/assets/jc_logo_stack-1682163295957.jpg" group-title="JIO - Livematches",Jiocinema 4k M1 Insiders
 https://prod-ent-live-gm.jiocinema.com/out/v1/c14f6fb1985845f38650eac97f84b26c/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://v3img.voot.com/v3Storage/assets/jc_logo_stack-1682163295957.jpg" group-title="JIO - Livematches",Jiocinema 4k M1 Adsfree
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/M1_IPL24_Hin_HD_IDC_AND/Fallback/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://v3img.voot.com/v3Storage/assets/jc_logo_stack-1682163295957.jpg" group-title="JIO - Livematches",Jiocinema 4k M2 Adsfree
 https://prod-ent-live-cf.jiocinema.com/bpk-tv/M2_IPL24_Hin_HD_IDC_AND/Fallback/index.m3u8
 
