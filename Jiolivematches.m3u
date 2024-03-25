@@ -11,50 +11,56 @@ https://prod-sports-north-gm.jiocinema.com/hls/live/2109762/hd_akamai_androidmob
 #EXTINF:-1 tvg-logo="https://v3img.voot.com/v3Storage/assets/jc_logo_stack-1682163295957.jpg" group-title="JIO - Livematches",Punjabi
 https://prod-sports-north-fa.jiocinema.com/hls/live/2109756/hd_akamai_androidmob_avc_pun_ipl_s2_m2240324/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://v3img.voot.com/v3Storage/assets/jc_logo_stack-1682163295957.jpg" group-title="JIO - Livematches",Dhoni Cam
-https://prod-sports-multiangle-gm.jiocinema.com/hls/live/2109671/hd_akamai_iosmob_avc_cam04_ipl_s2_m2240324/master.m3u8
+#EXTINF:-1 tvg-logo="https://v3img.voot.com/v3Storage/assets/jc_logo_stack-1682163295957.jpg" group-title="JIO - Livematches",Hero Cam
+https://prod-ent-live-gm.jiocinema.com/out/v1/a1469c70c34f4712982e6c895f05c913/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://v3img.voot.com/v3Storage/assets/jc_logo_stack-1682163295957.jpg" group-title="JIO - Livematches",Batter Cam
-https://prod-sports-multiangle-gm.jiocinema.com/hls/live/2109674/hd_akamai_iosmob_avc_cam01_ipl_s2_m2240324/master.m3u8
+https://prod-ent-live-gm.jiocinema.com/out/v1/933538ce86d04486b8fc3f949200d951/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://v3img.voot.com/v3Storage/assets/jc_logo_stack-1682163295957.jpg" group-title="JIO - Livematches",Birds Cam
-https://prod-sports-multiangle-gm.jiocinema.com/hls/live/2109672/hd_akamai_iosmob_avc_cam03_ipl_s2_m2240324/master.m3u8
+#EXTINF:-1 tvg-logo="https://v3img.voot.com/v3Storage/assets/jc_logo_stack-1682163295957.jpg" group-title="JIO - Livematches",Bird Eye Cam
+https://prod-ent-live-gm.jiocinema.com/out/v1/4eb7fa6d5c8342d298be3b6649e9cbe9/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://v3img.voot.com/v3Storage/assets/jc_logo_stack-1682163295957.jpg" group-title="JIO - Livematches",Multiview Cam
-https://prod-sports-multiangle-gm.jiocinema.com/hls/live/2109670/hd_akamai_iosmob_avc_cam05_ipl_s2_m2240324/master.m3u8
+https://prod-ent-live-gm.jiocinema.com/out/v1/31657ca6ac464025ba5ceffa7ec48939/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://v3img.voot.com/v3Storage/assets/jc_logo_stack-1682163295957.jpg" group-title="JIO - Livematches",Stump Cam
-https://prod-sports-multiangle-gm.jiocinema.com/hls/live/2109673/hd_akamai_iosmob_avc_cam02_ipl_s2_m2240324/master.m3u8
+https://prod-ent-live-gm.jiocinema.com/out/v1/6b8480f7115444298d80daa3bc442c28/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://v3img.voot.com/v3Storage/assets/jc_logo_stack-1682163295957.jpg" group-title="JIO - Livematches",English 4K
-https://prod-ent-live-gm.jiocinema.com/hls/live/2100307/uhd_akamai_atv_avc_eng_ipl_s2_m2240324/master.m3u8
+https://prod-ent-live-gm.jiocinema.com/hls/live/2100298/uhd_akamai_atv_bkp_avc_eng_ipl_s1_m1250324/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://v3img.voot.com/v3Storage/assets/jc_logo_stack-1682163295957.jpg" group-title="JIO - Livematches",Hindi 4K
 https://prod-ent-live-gm.jiocinema.com/hls/live/2100322/uhd_akamai_ctv_avc_hin_ipl_s1_m1250324/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://v3img.voot.com/v3Storage/assets/jc_logo_stack-1682163295957.jpg" group-title="JIO - Livematches",Bhojpuri 4K
-https://prod-sports-north-gm.jiocinema.com/hls/live/2109761/uhd_akamai_atv_avc_bhoj_ipl_s2_m2240324/master.m3u8
+https://prod-sports-north-gm.jiocinema.com/hls/live/2109761/uhd_akamai_atv_avc_bhoj_ipl_s1_m1250324/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://v3img.voot.com/v3Storage/assets/jc_logo_stack-1682163295957.jpg" group-title="JIO - Livematches",Punjabi 4K
-https://prod-sports-north-fa.jiocinema.com/hls/live/2109755/uhd_akamai_atv_avc_pun_ipl_s2_m2240324/master.m3u8
+http://prod-sports-north-fa.jiocinema.com/hls/live/2109755/uhd_akamai_atv_avc_pun_ipl_s1_m1250324/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://v3img.voot.com/v3Storage/assets/jc_logo_stack-1682163295957.jpg" group-title="JIO - Livematches",Haryanvi 4K
+http://prod-sports-south-gm.jiocinema.com/hls/live/2109699/uhd_akamai_atv_avc_odia_ipl_s1_m1250324/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://v3img.voot.com/v3Storage/assets/jc_logo_stack-1682163295957.jpg" group-title="JIO - Livematches",Hindi Adsfree 
-https://prod-ent-live-gm.jiocinema.com/hls/live/2100329/hd_akamai_androidmob_avc_hin_ipl_s2_m2240324/master.m3u8
+https://prod-ent-live-gm.jiocinema.com/out/v1/0032a90f57224764b183281b210ff4df/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://v3img.voot.com/v3Storage/assets/jc_logo_stack-1682163295957.jpg" group-title="JIO - Livematches",English Adsfree
-https://prod-ent-live-gm.jiocinema.com/hls/live/2100299/hd_akamai_androidmob_avc_eng_ipl_s2_m2240324/master.m3u8
+https://prod-ent-live-gm.jiocinema.com/out/v1/272eae19c0fb4d50a8efa0261ed53cdd/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://v3img.voot.com/v3Storage/assets/jc_logo_stack-1682163295957.jpg" group-title="JIO - Livematches",Bhojpuri Adsfree
-https://prod-ent-live-gm.jiocinema.com/hls/live/2099776/hd_akamai_iosmob_avc_bhoj_ipl_s2_m2240324/master.m3u8
+https://prod-ent-live-gm.jiocinema.com/out/v1/a77d9c6804ab4f14abbaf4874d26c6f9/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://v3img.voot.com/v3Storage/assets/jc_logo_stack-1682163295957.jpg" group-title="JIO - Livematches",Punjabi Adsfree
-https://prod-ent-live-gm.jiocinema.com/hls/live/2099781/hd_akamai_iosmob_avc_punj_ipl_s2_m2240324/master.m3u8
+https://prod-ent-live-gm.jiocinema.com/out/v1/bcc8f8d422bb4fdabe310a1e69056c04/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://v3img.voot.com/v3Storage/assets/jc_logo_stack-1682163295957.jpg" group-title="JIO - Livematches",Haryanvi Adsfree
+https://prod-ent-live-gm.jiocinema.com/out/v1/1472bd73a6094d0e9e30cdfd615225a2/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://v3img.voot.com/v3Storage/assets/jc_logo_stack-1682163295957.jpg" group-title="JIO - Livematches",IPL Jiocinema Live
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JV_SportsHD15_DIG_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://v3img.voot.com/v3Storage/assets/jc_logo_stack-1682163295957.jpg" group-title="JIO - Livematches",Jiocinema 4k Insiders
-https://prod-ent-live-gm.jiocinema.com/out/v1/caaeaeef7b784a77a99422df665175e9/master.m3u8
+https://prod-ent-live-gm.jiocinema.com/out/v1/c14f6fb1985845f38650eac97f84b26c/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://v3img.voot.com/v3Storage/assets/jc_logo_stack-1682163295957.jpg" group-title="JIO - Livematches",Jiocinema 4k M1 Insiders
 https://prod-ent-live-gm.jiocinema.com/out/v1/c14f6fb1985845f38650eac97f84b26c/master.m3u8
@@ -66,4 +72,4 @@ https://prod-sports-north-gm.jiocinema.com/bpk-tv/M1_IPL24_Hin_HD_IDC_AND/Fallba
 https://prod-ent-live-cf.jiocinema.com/bpk-tv/M2_IPL24_Hin_HD_IDC_AND/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://v3img.voot.com/v3Storage/assets/jc_logo_stack-1682163295957.jpg" group-title="JIO - Livematches",Jiocinema Hangout
-https://prod-ent-live-gm.jiocinema.com/out/v1/02d5feb2fadf4f619178554fbfbafa30/master.m3u8
+https://prod-ent-live-gm.jiocinema.com/out/v1/3533142cda074c078afc16bf1bc5c75b/master.m3u8
