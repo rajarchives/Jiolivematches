@@ -26,3 +26,8 @@ https://tp.denver1769.workers.dev/tplay/24.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrkingtv.shodns.in/keys.php?id=689
 #EXTINF:-1 tvg-id="ts689" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-34652-jpmey8gw-v1/imageContent-34652-jpmey8gw-m1.png" group-title="📰 News",Aaj Tak HD
 https://tp.denver1769.workers.dev/tplay/689.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/malaysia/screen-bug/astro-cricket-bug-my.png" ,Astro Cricket Live
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default.mpd
