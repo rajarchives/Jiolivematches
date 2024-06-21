@@ -1,6 +1,7 @@
 #EXTM3U
-#EXTINF:-1 ,tvg logo=https://assets.aboutamazon.com/dims4/default/c241911/2147483647/strip/true/crop/1599x900+1+0/resize/1024x576!/format/webp/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fbb%2F6c%2F8276563a43188a2f846409ce591f%2Fhero-image.jpg
+#EXTINF:-1
 tvg name=Star Sports Hindi Amazon Prime
+tvg logo=https://assets.aboutamazon.com/dims4/default/c241911/2147483647/strip/true/crop/1599x900+1+0/resize/1024x576!/format/webp/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fbb%2F6c%2F8276563a43188a2f846409ce591f%2Fhero-image.jpg
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1105b85e6db6214e686e462206ed86ec:59d851187354b65fa2d14829046893ef
 https://aba5sdmaaaaaaaamibyasmmfoav3v.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/dmmqe7ssji/out/v1/3775f3d149f34a7a81d8cd7d58118e40/cenc.mpd
