@@ -43,6 +43,6 @@ https://linear-novi.stvacdn.spectrum.com/LIVE/5248/bpk-tv/10364/drm/manifest.mpd
 https://tp.denver1769.workers.dev/tplay/484.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=29905b5c960f575398d48decb3fe68b4:0b43c3908caaaa2aaa76100527a16fb4
-#EXTINF:-1 tvg-id="ts40" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-117-j5fl7440-v1/imageContent-117-j5fl7440-m1.png" group-title="🌟 Hindi",&tv HD
-https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_303/output/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=fce0db3f147f5840a02c743d90aa2c93:3db4e3ccf6e2c9983b82b205f8d9a1d5
+#EXTINF:-1 tvg-id="" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-155-j5frd2uo-v1/imageContent-155-j5frd2uo-m1.png" ,Colors HD
+https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_299/output/manifest.mpd?begin=20240621T005326&end=20240629T005326
