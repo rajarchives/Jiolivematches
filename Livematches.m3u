@@ -44,5 +44,5 @@ https://tp.denver1769.workers.dev/tplay/484.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://allinonereborn.in/tplay/lic.php?id=40
-#EXTINF:-1 tvg-id="" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-155-j5frd2uo-v1/imageContent-155-j5frd2uo-m1.png" ,Colors HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-117-j5fl7440-v1/imageContent-117-j5fl7440-m1.png" ,&tv HD
 https://allinonereborn.in/tplay/manifest.php?id=40
