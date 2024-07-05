@@ -29,7 +29,8 @@ https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=-kUUY73bPnQ
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/rekNqYolSyw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAcY_cUR2XGCf06ZDHpRfgYcVk46w",Zee News
 https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=96vWpPu3C3s
-https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=q3uSP_fi0xY
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/TPcmrPrygDc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCU3AP_9dzMplk6AcE9mdSC9rLy_A",Zee News
+https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=TPcmrPrygDc
 https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=OpNiFlQcYF8
 https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=nH2qsS0p1L8
 https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=wkjamoBA0lY
@@ -41,7 +42,6 @@ https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=2k4Olp7hwQU
 https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=prVReE8tino
 https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=6MUSUINaCDE
 
-India Tv
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/Xmm3Kr5P1Uw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAdlM2vWMXwNehUygstywevWrb0YA",India Tv
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/xvSPpZd-kEa6T3KgnlWv5YYkzLxf9UjWwnjlVBhtJR67qcipOq0sBjrgOd5_46mdoCE3cglT_w=s160-c-k-c0x00ffffff-no-rj",India Tv
 https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=Xmm3Kr5P1Uw
@@ -64,6 +64,10 @@ https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=0RIdje3c7HE
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_l4ezbC_H6fM6Simi743mhE_y_9GhUGAO1SL4tKUNm2gFM=s160-c-k-c0x00ffffff-no-rj",Zee Buiseness
 https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=Of3n3GqqtY0
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/3JubGfui2cE/hqdefault_live.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAwEZ2W_GAVSTc3z146VfdnA36K4A",Zee Buiseness
+https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=3JubGfui2cE
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/IChU8OJ5ehI/hqdefault_live.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAEI_hi0xNp9qmq35uS5dkcIF3kvQ",Zee Buiseness
+https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=IChU8OJ5ehI
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/0M3TnWi4XmY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBMFTHIx6jg7o8S5kKrNMyuc9Xhdg",DD News
 https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=0M3TnWi4XmY
@@ -79,5 +83,50 @@ https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=wHitES3rAp8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/niEyFkpdN5M/hqdefault_live.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCuJDrVh1ZxE2a-izpLq_ZhtcOIsw",CNBC Awaaz
 https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=niEyFkpdN5M
 
-#EXTINF:-1 tvg-id="" tvg-logo=https://i.ytimg.com/vi/vHOB3V-BezQ/hqdefault_live.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCsQMpbOBx6_r3xF1VAKX-eBHWidA",CNBC Awaaz
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/vHOB3V-BezQ/hqdefault_live.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCsQMpbOBx6_r3xF1VAKX-eBHWidA",CNBC Awaaz
 https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=vHOB3V-BezQ
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/ZwD3-hUQ3rk/hqdefault_live.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC1jMhpIfXR6C_2LfGnRRdUmVgCvA",Republic Bharat
+https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=ZwD3-hUQ3rk
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/HBorWH77wPs/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAbdVbOspiEaeOzo7ISOPVlz9qb6w",News18 India
+https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=HBorWH77wPs
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/nSpwwcHVp80/hqdefault_live.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDDrXWZadSFvJeGgAUSPsR4NzP1tQ",TV9 Bharatvarsh
+https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=nSpwwcHVp80
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/as7B8MuDovM/hqdefault_live.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAxSpyrnzNjMTrF93GJFqZMD5KpPg",TV9 Bharatvarsh
+https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=as7B8MuDovM
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/LsmqMtsb78g/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDM3nvjVKSspBu4JPRV4VYBOiKGHA", Shree Ram Aarti Live
+https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=LsmqMtsb78g
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/H5CFG5H6g_g/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDe-OUcXiu2tpe8IgTwg5x_zVTOOg", Shree Ram Mandir Live
+https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=H5CFG5H6g_g
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/ro1IGURiJEk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB3ikoYPl2DwpbAQbw7wiXQyvq9Zw", News18 UP/UK
+https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=ro1IGURiJEk
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/MN8p-Vrn6G0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCA683yUIXGELkseKip_wPwZIsO_w", NDTV India
+https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=MN8p-Vrn6G0
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/4tpv3CE1alB7ayIk-y1ktHsang1dMJkGf4f4dazy55G8j8Y0nGkEYnxNJ30JYOiPf6cCaaMARQ=s160-c-k-c0x00ffffff-no-rj", Lallantop Live 24x7
+https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=zNg73bbBLMI
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/qKvckF4z-ck/hqdefault_live.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDLULvPuuCAobhDXOcxRlWnS6TVzw", Shri Durga Amritvani
+https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=qKvckF4z-ck
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/qKvckF4z-ck/hqdefault_live.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDLULvPuuCAobhDXOcxRlWnS6TVzw", Shri Durga Mantra
+https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=egAivq0SQIk
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/Eh351TucVwo/hqdefault_live.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB17CjHTOyr8MtRNSO_8JCA7C-2Vw", Shri Mahalakshmi Mantra
+https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=Eh351TucVwo
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/rm4wnOvyCnc/hqdefault_live.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCKv08G-Ma43yiecpPVDH26Fs0dBQ", Ohm Namah Shivay Dhun
+https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=rm4wnOvyCnc
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/EWlRCZtm1ZU/hqdefault_live.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC8A_Xl2INvj5MwvmZonv_Ly3pqdg", Gayatri Mantra Chanting
+https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=EWlRCZtm1ZU
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/VHr34uEC_Ds/hqdefault_live.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB52U9lDW6zRJus8hGXPO53aNK_Pw", Hanuman Chalisa
+https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=VHr34uEC_Ds
