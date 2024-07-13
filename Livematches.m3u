@@ -22,7 +22,7 @@ https://play.denver1769.in/tp2.mpd?id=24
 #KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=689
 #EXTINF:-1 tvg-id="ts689" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,dpr_6.75,w_40/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-34652-jpmey8gw-v1/imageContent-34652-jpmey8gw-m1.png" group-title="News",Aaj Tak HD
 #EXTVLCOPT:http-user-agent=Denver1769
-https://play.denver1769.in/tp.mpd?id=689
+https://play.denver1769.in/tp2.mpd?id=689
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
@@ -38,4 +38,4 @@ https://linear-novi.stvacdn.spectrum.com/LIVE/5248/bpk-tv/10364/drm/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=484
 #EXTINF:-1 tvg-id="ts484" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,dpr_6.75,w_40/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11862-j9l2p61c-v1/imageContent-11862-j9l2p61c-m1.png" group-title="Lifestyle",Travelxp HD
 #EXTVLCOPT:http-user-agent=Denver1769
-https://play.denver1769.in/tp.mpd?id=484
+https://play.denver1769.in/tp2.mpd?id=484
