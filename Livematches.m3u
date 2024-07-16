@@ -43,4 +43,5 @@ https://play.denver1769.in/tp2.mpd?id=484
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1af0b1017ce553b3abdce7191562a27a:a63f375f98742bf316fc698dacb036a1
 #EXTINF:-1 tvg-id="ts484" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-155-j5frd2uo-v1/imageContent-155-j5frd2uo-m1.png" group-title="Entertainment", Colors HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 https://madplay.live/hls/tata/play.php?id=52
