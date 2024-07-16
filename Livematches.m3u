@@ -41,7 +41,6 @@ https://linear-novi.stvacdn.spectrum.com/LIVE/5248/bpk-tv/10364/drm/manifest.mpd
 https://play.denver1769.in/tp2.mpd?id=484
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1af0b1017ce553b3abdce7191562a27a:a63f375f98742bf316fc698dacb036a1
-#EXTINF:-1 tvg-id="ts484" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-155-j5frd2uo-v1/imageContent-155-j5frd2uo-m1.png" group-title="Entertainment", Colors HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_299/output/manifest.mpd?begin=20240710T034014&end=20240718T034014
+#KODIPROP:inputstream.adaptive.license_key=92dd0be943f35eadb492e758c76c22f4:532b36f2503c3bb48e47d9e8dddaa4d3
+#EXTINF:-1 tvg-id="ts484" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SGHD_Thumbnail-v2/SGHD_Thumbnail.png" group-title="Movies", Star Gold HD
+https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_412/output/codecuterultra.mpd
