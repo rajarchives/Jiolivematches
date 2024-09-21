@@ -2,10 +2,10 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
 
 #EXTINF:-1 tvg-logo="https://v3img.voot.com/v3Storage/assets/jc_logo_stack-1682163295957.jpg" group-title="JIO - Livematches",Hindi 4K
-https://prod-sports-hin-cf.jiocinema.com/hls/live/2100320/uhd_akamai_ctv_avc_hin_indvsban_1909241/master.m3u8
+https://prod-sports-hin-cf.jiocinema.com/hls/live/2100320/uhd_akamai_ctv_avc_hin_indvsban_2109241/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://v3img.voot.com/v3Storage/assets/jc_logo_stack-1682163295957.jpg" group-title="JIO - Livematches",Hindi
-https://prod-sports-hin-gm.jiocinema.com/hls/live/2100322/hd_akamai_iosmob_avc_hin_indvsban_190924/master.m3u8
+https://prod-sports-hin-gm.jiocinema.com/hls/live/2100322/hd_akamai_iosmob_avc_hin_indvsban_210924/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://v3img.voot.com/v3Storage/assets/jc_logo_stack-1682163295957.jpg" group-title="JIO - Livematches",Hindi
-https://prod-sports-hin-cf.jiocinema.com/hls/live/2100323/hd_akamai_androidmob_avc_hin_indvsban_190924/master.m3u8
+https://prod-sports-hin-cf.jiocinema.com/hls/live/2100323/hd_akamai_androidmob_avc_hin_indvsban_210924/master.m3u8
