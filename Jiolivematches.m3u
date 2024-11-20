@@ -45,3 +45,10 @@ http://cdn.troya.one:80/ch1988/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iCpF
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://bobgoldpr.com/wp-content/themes/bobgold/assets/timthumb/timthumb.php?src=https://bobgoldpr.com/wp-content/uploads/2024/05/logo-transparent-cb-1.png&w=248&h=167&q=100&zc=1" group-title="Willow",Willow Extra Live by Cricbuzz
 http://flbl16.112421.net:8082/361988/index.m3u8?token=FYCMQWAK8R
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=ad3cb242cde3b687e2398cd21eb9bd10:6ed9b4976a854a289ce62cac957a55d5
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/colors-hd-in.png" group-title="Astro",Colors HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_ott.mpd
