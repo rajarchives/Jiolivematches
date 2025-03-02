@@ -74,3 +74,10 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_ott.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f7/Disney_hotstar.jpg" group-title="Hotstar",Hotstar FHD
 https://dj-tm-srvr2.vercel.app/htstr/ind_vs_eng-hin-hq@DJ-TM.m3u8?data=BcHBDoIgAADQD_LgjMw6dKi06SaINIx50ykkTkxBTb6-964kdDztLhUPsji3HDpOZ_01smZvxDsRxHqUPH4vvCzzkd1nwnLMosncNqaGr9IQpNq3pxZ01VZPg2niEHVUB8gHoyw-qZ73cq2S9oIlfRbCQoXhOApwPiAsZNNLFRp3rQ0PsKczREzB86xP6R8&lang=Hindi&vrnt=androidtvv1|Cookie=hdntl=exp=1737895681~acl=%2fhls%2flive%2f2024726%2finallow-indvseng-2025%2fhin%2f1540037322%2f15mindvrm01f733ab1f09914c4f9a3a2af7d8de3e0a25january2025%2fmaster_ap*~data=ip%3dWRDeFsyrIIQMYIC3xpIR2HYhY5wT0imaF3qftPafvI2d2Cz6k1akubX-userid%3dJMKFZciDT0HPmVPw0A5IMLVGkQClXxR5wRbm3S0ylfvq-did%3dOG6R1acMQvi6ElWJYIHDPAVCbERUWeqv3TESLigyFtxB-cc%3din-de%3d2-pl%3dandroidtv-ap%3dtelegram%40links_macha_official-ut%3dpaid-ttl%3d86400-type%3dfree-~hmac=bdbc8eadaf0f408c50dcdcc4d3f2af0f5d93581046642fc1263f0921172fadc5&Telegram=@links_macha_official&Creator=@DJ-TM
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=bb0c6b6f0e2c873a174e63e16f3a3f62:a8c4fae3ea8023b51707e470ec336209
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSxZWvlxLA9K15scX2JWiJj0McoDgrQBDd-g&s" group-title="Movies",B4U Movies APAC
+https://live3.shoq.com.pk/live/eds/B4U_Movies/DASH/B4U_Movies.mpd
