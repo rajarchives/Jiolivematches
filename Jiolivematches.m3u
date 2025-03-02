@@ -81,3 +81,13 @@ https://dj-tm-srvr2.vercel.app/htstr/ind_vs_eng-hin-hq@DJ-TM.m3u8?data=BcHBDoIgA
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSxZWvlxLA9K15scX2JWiJj0McoDgrQBDd-g&s" group-title="Movies",B4U Movies APAC
 https://live3.shoq.com.pk/live/eds/B4U_Movies/DASH/B4U_Movies.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.license_key=bb0c6b6f0e2c873a174e63e16f3a3f62:a8c4fae3ea8023b51707e470ec336209
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSxZWvlxLA9K15scX2JWiJj0McoDgrQBDd-g&s" group-title="Movies",B4U Movies APAC Tivimate
+https://live3.shoq.com.pk/live/eds/B4U_Movies/DASH/B4U_Movies.mpd
+
+
