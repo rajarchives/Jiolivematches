@@ -13,16 +13,16 @@ http://prod-sports-hin-gm.jiocinema.com/hls/live/2100327/fhd__akamai__androidmob
 https://prod-sports-hin-cf.jiocinema.com/hls/live/2100323/hd_akamai_androidmob_avc_hin_indvsnz_261024/master.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=494c5ddd4a2b9c38da05e053c0fd6d3f:ad1ff8c72fc6fefbce716609da9347cf
+#KODIPROP:inputstream.adaptive.license_key=9a1b6c795aa107e48d6be695705e112f:24f64f1bdfe33c496e293032e70775b3
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVwwPWut_hrcJKhTO8tgjMAHsE3cGKOokxJg&usqp=CAU" group-title="Amazonprime",Amazonprime Hindi
-https://a170aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/rkyxparx1t/out/v1/fe9782633a364a6a84c9410f26d9b2c4/cenc.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVwwPWut_hrcJKhTO8tgjMAHsE3cGKOokxJg&usqp=CAU" group-title="Amazonprime",Amazonprime English
+https://aba3uy3aaaaaaaamfjv2jyrjdxcj4.otte.live.cf.ww.aiv-cdn.net/sin-nitro/live/dash/enc/ebgsyorlcl/out/v1/ce95d81f287040d5a3fa6d4b145be849/cenc.mpd
 
 KODIPROP:inputstream.adaptive.license_type=clearkey
-KODIPROP:inputstream.adaptive.license_key=1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
+KODIPROP:inputstream.adaptive.license_key=2ce2e7d0af813fd26c6fe0b59201ced5:1416f69da90f62735a6521aae461dd74
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVwwPWut_hrcJKhTO8tgjMAHsE3cGKOokxJg&usqp=CAU" group-title="Amazonprime",Willow
-https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
+https://abbbmftaaaaaaaamgdshloqn26zka.otte.live.cf.ww.aiv-cdn.net/sin-nitro/live/dash/enc/jr0zvtazlv/out/v1/6bae9634f7594a738530656284177423/cenc.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4a5191838da17a2ab771f4258fad347f:54b7a084437459368eed07d182ad644c
