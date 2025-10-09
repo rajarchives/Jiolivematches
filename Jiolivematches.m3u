@@ -1,16 +1,6 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz"
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVwwPWut_hrcJKhTO8tgjMAHsE3cGKOokxJg&usqp=CAU" group-title="Willow",Willow Sports TV US
-https://amg01269-amg01269c1-willowtv-us-5479.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-willowtvus/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://v3img.voot.com/v3Storage/assets/jc_logo_stack-1682163295957.jpg" group-title="JIO - Livematches",Hindi 4K
-https://prod-sports-hin-cf.jiocinema.com/hls/live/2100324/uhd__akamai__ctv__avc__ssaispot__indvssa__hin__m1__081124__dbeedb71-c6de-484c-8b7e-51cbb61645b4/master.m3u8
-#EXTINF:-1 tvg-logo="https://v3img.voot.com/v3Storage/assets/jc_logo_stack-1682163295957.jpg" group-title="JIO - Livematches",Hindi
-http://prod-sports-hin-gm.jiocinema.com/hls/live/2100327/fhd__akamai__androidmob__avc__ssaispot__indvssa__hin__m1__081124__dbeedb71-c6de-484c-8b7e-51cbb61645b4/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://v3img.voot.com/v3Storage/assets/jc_logo_stack-1682163295957.jpg" group-title="JIO - Livematches",Hindi Adsfree
-https://prod-sports-hin-cf.jiocinema.com/hls/live/2100323/hd_akamai_androidmob_avc_hin_indvsnz_261024/master.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9a1b6c795aa107e48d6be695705e112f:24f64f1bdfe33c496e293032e70775b3
@@ -21,73 +11,6 @@ https://aba3uy3aaaaaaaamfjv2jyrjdxcj4.otte.live.cf.ww.aiv-cdn.net/sin-nitro/live
 KODIPROP:inputstream.adaptive.license_type=clearkey
 KODIPROP:inputstream.adaptive.license_key=2ce2e7d0af813fd26c6fe0b59201ced5:1416f69da90f62735a6521aae461dd74
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVwwPWut_hrcJKhTO8tgjMAHsE3cGKOokxJg&usqp=CAU" group-title="Amazonprime",Willow
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVwwPWut_hrcJKhTO8tgjMAHsE3cGKOokxJg&usqp=CAU" group-title="Amazonprime",Hindi
 https://abbbmftaaaaaaaamgdshloqn26zka.otte.live.cf.ww.aiv-cdn.net/sin-nitro/live/dash/enc/jr0zvtazlv/out/v1/6bae9634f7594a738530656284177423/cenc.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4a5191838da17a2ab771f4258fad347f:54b7a084437459368eed07d182ad644c
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVwwPWut_hrcJKhTO8tgjMAHsE3cGKOokxJg&usqp=CAU" group-title="Amazonprime",Amazonprime Hindi
-https://aba5sdmaaaaaaaamidug47tdi5buy.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/l0phze3ehz/out/v1/fe9782633a364a6a84c9410f26d9b2c4/cenc.mpd
-
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cb8daf414566aa17d06f8294f3f3b444:89d58908a57d70ef87bf16c9b5821ca2
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVwwPWut_hrcJKhTO8tgjMAHsE3cGKOokxJg&usqp=CAU" group-title="Amazonprime",Amazonprime English
-https://aba5sdmaaaaaaaamdgp3ryzabcel7.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/1koccf0pf1/out/v1/190f1d69a3d5467f8fb7d9df4339bc49/cenc.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cb8daf414566aa17d06f8294f3f3b444:89d58908a57d70ef87bf16c9b5821ca2
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVwwPWut_hrcJKhTO8tgjMAHsE3cGKOokxJg&usqp=CAU" group-title="Amazonprime",Amazonprime English 2
-https://a201aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/1koccf0pf1/out/v1/190f1d69a3d5467f8fb7d9df4339bc49/cenc.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4a267ba09b3a43969364ee77f76dd622:5b00d4341e90b3022b5e57139ae8ab16
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" group-title="Astro",Astro Cricket
-https://linear05-playback.sooka.my/CH2/masterCH2.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00053ac1e9b1231eed3eb4e3540b3ae1:0f03d8541826af3d9acbac975d751165
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJLPeBw94MGLtdWuJMnIqnfLhG4NbS3lEQdkFrdUL8-EWnqv0bjuyNXRs&s=10" group-title="Skysports",Skysports Cricket
-https://linear007-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportscricket)/manifest_720-120.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" group-title="Astro",Astro Cricket Mhdtv
-https://mhdtv.co.in/daddy/stream.m3u8?id=370|Referer=https://mhdtv.co.in/
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" group-title="Astro",Astro Cricket Online
-http://cdn.troya.one:80/ch1988/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iCpFZbpMMqq-6-4vFTZzyqSBH3QV-i0fbkSlM6VW0S_5
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://bobgoldpr.com/wp-content/themes/bobgold/assets/timthumb/timthumb.php?src=https://bobgoldpr.com/wp-content/uploads/2024/05/logo-transparent-cb-1.png&w=248&h=167&q=100&zc=1" group-title="Willow",Willow Extra Live by Cricbuzz
-http://flbl16.112421.net:8082/361988/index.m3u8?token=FYCMQWAK8R
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=ad3cb242cde3b687e2398cd21eb9bd10:6ed9b4976a854a289ce62cac957a55d5
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/colors-hd-in.png" group-title="Astro",Colors HD
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_ott.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f7/Disney_hotstar.jpg" group-title="Hotstar",Hotstar FHD
-https://dj-tm-srvr2.vercel.app/htstr/ind_vs_eng-hin-hq@DJ-TM.m3u8?data=BcHBDoIgAADQD_LgjMw6dKi06SaINIx50ykkTkxBTb6-964kdDztLhUPsji3HDpOZ_01smZvxDsRxHqUPH4vvCzzkd1nwnLMosncNqaGr9IQpNq3pxZ01VZPg2niEHVUB8gHoyw-qZ73cq2S9oIlfRbCQoXhOApwPiAsZNNLFRp3rQ0PsKczREzB86xP6R8&lang=Hindi&vrnt=androidtvv1|Cookie=hdntl=exp=1737895681~acl=%2fhls%2flive%2f2024726%2finallow-indvseng-2025%2fhin%2f1540037322%2f15mindvrm01f733ab1f09914c4f9a3a2af7d8de3e0a25january2025%2fmaster_ap*~data=ip%3dWRDeFsyrIIQMYIC3xpIR2HYhY5wT0imaF3qftPafvI2d2Cz6k1akubX-userid%3dJMKFZciDT0HPmVPw0A5IMLVGkQClXxR5wRbm3S0ylfvq-did%3dOG6R1acMQvi6ElWJYIHDPAVCbERUWeqv3TESLigyFtxB-cc%3din-de%3d2-pl%3dandroidtv-ap%3dtelegram%40links_macha_official-ut%3dpaid-ttl%3d86400-type%3dfree-~hmac=bdbc8eadaf0f408c50dcdcc4d3f2af0f5d93581046642fc1263f0921172fadc5&Telegram=@links_macha_official&Creator=@DJ-TM
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=bb0c6b6f0e2c873a174e63e16f3a3f62:a8c4fae3ea8023b51707e470ec336209
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSxZWvlxLA9K15scX2JWiJj0McoDgrQBDd-g&s" group-title="Movies",B4U Movies APAC
-https://live3.shoq.com.pk/live/eds/B4U_Movies/DASH/B4U_Movies.mpd
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#KODIPROP:inputstream.adaptive.license_key=bb0c6b6f0e2c873a174e63e16f3a3f62:a8c4fae3ea8023b51707e470ec336209
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSxZWvlxLA9K15scX2JWiJj0McoDgrQBDd-g&s" group-title="Movies",B4U Movies APAC Tivimate
-https://live3.shoq.com.pk/live/eds/B4U_Movies/DASH/B4U_Movies.mpd
-
 
