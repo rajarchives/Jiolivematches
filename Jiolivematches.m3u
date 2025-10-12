@@ -3,13 +3,13 @@
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9a1b6c795aa107e48d6be695705e112f:24f64f1bdfe33c496e293032e70775b3
+#KODIPROP:inputstream.adaptive.license_key=7d0dc82dee843518294a0930831dea89:b79e2c75c38f08d11ab9883215d058b1
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVwwPWut_hrcJKhTO8tgjMAHsE3cGKOokxJg&usqp=CAU" group-title="Amazonprime",Amazonprime English
 https://aba3uy3aaaaaaaamfjv2jyrjdxcj4.otte.live.cf.ww.aiv-cdn.net/sin-nitro/live/dash/enc/ebgsyorlcl/out/v1/ce95d81f287040d5a3fa6d4b145be849/cenc.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2ce2e7d0af813fd26c6fe0b59201ced5:1416f69da90f62735a6521aae461dd74
+#KODIPROP:inputstream.adaptive.license_key=c349ec4cb941fbf48a81798dffe7e5eb:857bfaea3e7173bc3c63ce3749cabfcf
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVwwPWut_hrcJKhTO8tgjMAHsE3cGKOokxJg&usqp=CAU" group-title="Amazonprime",Hindi
-https://abbbmftaaaaaaaamgdshloqn26zka.otte.live.cf.ww.aiv-cdn.net/sin-nitro/live/dash/enc/jr0zvtazlv/out/v1/6bae9634f7594a738530656284177423/cenc.mpd
+MPD: https://abbbmftaaaaaaaamgdshloqn26zka.otte.live.cf.ww.aiv-cdn.net/sin-nitro/live/dash/enc/jr0zvtazlv/out/v1/6bae9634f7594a738530656284177423/cenc.mpd
