@@ -5,8 +5,15 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=10f6f71a143487061225dda49e47bfbb:5fae4f61b4b81f3f91471ffd39d6336c
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVwwPWut_hrcJKhTO8tgjMAHsE3cGKOokxJg&usqp=CAU" group-title="Amazonprime",Amazonprime English
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVwwPWut_hrcJKhTO8tgjMAHsE3cGKOokxJg&usqp=CAU" group-title="Amazonprime",Willow Cricbuzz English
 https://abmyxykaaaaaaaamkyvb65fuqebyg.7a77200bf98444ac997a89ed83775793.emt.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tm8sgjffrk/out/v1/c3a1e0061bdd49bda6e0683c965f997e/cenc.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=10f6f71a143487061225dda49e47bfbb:5fae4f61b4b81f3f91471ffd39d6336c
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVwwPWut_hrcJKhTO8tgjMAHsE3cGKOokxJg&usqp=CAU" group-title="Amazonprime",Amazonprime English
+https://aba3uy3aaaaaaaamfjv2jyrjdxcj4.otte.live.cf.ww.aiv-cdn.net/sin-nitro/live/dash/enc/ebgsyorlcl/out/v1/ce95d81f287040d5a3fa6d4b145be849/cenc.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c349ec4cb941fbf48a81798dffe7e5eb:857bfaea3e7173bc3c63ce3749cabfcf
