@@ -3,8 +3,9 @@
 
 
 # ===== DISHTVX =====
+#EXTINF:-1 tvg-id="ts40" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_TV_HD.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpBYONR_j5CWTYVr4aFEh7IYYm7gwnQy3V4g&s" group-title="DishTV | Entertainment",& TV ᴴᴰ
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b2bce8d71c7545249c84099da4fb7d7c:c710e4af595949d3bc8916d224a9fef4
-#EXTINF:-1 tvg-id="ts192" tvg-logo="https://i.imgur.com/y0VS4QN.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpBYONR_j5CWTYVr4aFEh7IYYm7gwnQy3V4g&s" group-title="DishTV | Movies",Fakt Marathi
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Faktmarathi2/default/main.mpd
+#KODIPROP:inputstream.adaptive.license_key=67d18634ccb04875875c60fb8d9caaba:99a66471c09e4b8a8dc39a0de6803f75
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd/default/index.mpd
+
 
