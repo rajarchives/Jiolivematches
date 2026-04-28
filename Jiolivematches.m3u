@@ -2,10 +2,425 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
 
 
-# ===== DISHTVX =====
+# ==== DISHTVX =====
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b2bce8d71c7545249c84099da4fb7d7c:c710e4af595949d3bc8916d224a9fef4
+#EXTINF:-1 tvg-id="ts192" tvg-logo="https://i.imgur.com/y0VS4QN.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpBYONR_j5CWTYVr4aFEh7IYYm7gwnQy3V4g&s" group-title="DishTV | Movies",Fakt Marathi
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Faktmarathi2/default/main.mpd
+
 #EXTINF:-1 tvg-id="ts40" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_TV_HD.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpBYONR_j5CWTYVr4aFEh7IYYm7gwnQy3V4g&s" group-title="DishTV | Entertainment",& TV ᴴᴰ
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=67d18634ccb04875875c60fb8d9caaba:99a66471c09e4b8a8dc39a0de6803f75
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd/default/index.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SYMAND_PICTURES_HD" tvg-name="& Pictures HD" tvg-language="hi" tvg-logo="https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMAND_PICTURES_HD/images/PORTRAIT_HD/PORTRAIT_HD_image.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpBYONR_j5CWTYVr4aFEh7IYYm7gwnQy3V4g&s" group-title="DishTV | Movies",& Pictures HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"jepTLKv-T3G6IPYjEOeUnw","k":"eiFKl05PTR2btmNk1fDLkg"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictures/default/manifest.mpd
 
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SYMAND_TV_HD" tvg-name="& TV HD" tvg-language="hi" tvg-logo="https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMAND_TV_HD/images/PORTRAIT_HD/PORTRAIT_HD_image.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpBYONR_j5CWTYVr4aFEh7IYYm7gwnQy3V4g&s" group-title="DishTV | Entertainment",& TV HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"Jt-G7uuwTX-8RclI926B_Q","k":"Xzoj8ac8TJarq85f_-ewaw"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
+
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ZEE_24_GHANTA" tvg-name="Zee 24 Ghanta" tvg-language="bn" tvg-logo="https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_24_GHANTA/images/PORTRAIT_HD/PORTRAIT_HD_image.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpBYONR_j5CWTYVr4aFEh7IYYm7gwnQy3V4g&s" group-title="DishTV | News",Zee 24 Ghanta
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"yiGqzuVxR1CMDDb1b4wnUQ","k":"u99UZeR7TAy6xb04u24rIw"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/24ghanta2/default/manifest.mpd
+
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_DISCOVERY_CHANNEL" tvg-name="Discovery Channel" tvg-language="en,hi,te,ml,kn,bn,ta" tvg-logo="https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISCOVERY_CHANNEL/images/PORTRAIT_HD/PORTRAIT_HD_image.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpBYONR_j5CWTYVr4aFEh7IYYm7gwnQy3V4g&s" group-title="DishTV | Infotainment",Discovery Channel
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"twqM-UUMTWSEtKxNPGdhwA","k":"CQi-hEJgQJy6wYC_AYHaQA"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverychannel2/default/manifest.mpd
+
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_DISCOVERY_KIDS" tvg-name="Discovery Kids" tvg-language="hi,ta,te,ml,kn" tvg-logo="https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISCOVERY_KIDS/images/PORTRAIT_HD/image.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpBYONR_j5CWTYVr4aFEh7IYYm7gwnQy3V4g&s" group-title="DishTV | Kids",Discovery Kids
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"YB9Y1LcJTSuveMhdHZy2yQ","k":"YJ4MwDGYRV-jb9LMPn-UDQ"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverykids2/default/manifest.mpd
+
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_DISCOVERY_SCIENCE" tvg-name="Discovery Science" tvg-language="en,hi" tvg-logo="https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISCOVERY_SCIENCE/images/PORTRAIT_HD/image.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpBYONR_j5CWTYVr4aFEh7IYYm7gwnQy3V4g&s" group-title="DishTV | Infotainment",Discovery Science
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"VFj0Xv7bTW-Kpqx2yFtiGw","k":"2_igowamRSW6MBL9IlNwwA"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryscience2/default/manifest.mpd
+
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_DISCOVERY_TURBO" tvg-name="Discovery Turbo" tvg-language="en" tvg-logo="https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISCOVERY_TURBO/images/PORTRAIT_HD/image.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpBYONR_j5CWTYVr4aFEh7IYYm7gwnQy3V4g&s" group-title="DishTV | Infotainment",Discovery Turbo
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"wBFSWWnkS5moYFnbs8306A","k":"ZwCl2TIDQXuFhffefdGgmw"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryturbo2/default/manifest.mpd
+
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_INVESTIGATION_DISCOVERY_HD" tvg-name="Investigation Discovery HD" tvg-language="en,hi" tvg-logo="https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INVESTIGATION_DISCOVERY_HD/images/PORTRAIT_HD/image.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpBYONR_j5CWTYVr4aFEh7IYYm7gwnQy3V4g&s" group-title="DishTV | Entertainment",Investigation Discovery HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"KCjqb2qYRQWwRU2gwD9ouQ","k":"XTtxlQhlRMKAeqjBVE5zeQ"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Investigationdiscovery2/default/manifest.mpd
+
+#EXTINF:-1 tvg-id="watcho-mtv-beats" tvg-name="MTV BEATS" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/lrcznw.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpBYONR_j5CWTYVr4aFEh7IYYm7gwnQy3V4g&s" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpBYONR_j5CWTYVr4aFEh7IYYm7gwnQy3V4g&s" group-title="DishTV | Lifestyle", MTV BEATS
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"KkV6algYQjS6m_ppFs6AEw","k":"7z3YCJR3RDCjPsvJEI6R1w"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Mtvbeats2/default/manifest.mpd
+
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_NDTV_INDIA" tvg-name="NDTV India" tvg-language="hi" tvg-logo="https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NDTV_INDIA/images/PORTRAIT_HD/image.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpBYONR_j5CWTYVr4aFEh7IYYm7gwnQy3V4g&s" group-title="DishTV | News",NDTV India
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"14wBYlw_TtmJEmCXmSmFRA","k":"uRu4gvliSHKtphJQBv5ccw"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Ndtvindia2/default/manifest.mpd
+
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_TLC_HD" tvg-name="TLC HD" tvg-language="en,hi" tvg-logo="https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TLC_HD/images/PORTRAIT_HD/image.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpBYONR_j5CWTYVr4aFEh7IYYm7gwnQy3V4g&s" group-title="DishTV | Lifestyle",TLC HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"5I5zc9a-R-yrg6IISfaCPg","k":"UTzgei7iT_2-Zn7_Wp1GqA"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Tlc2/default/manifest.mpd
+
+#EXTINF:-1 tvg-id="523" tvg-name="Zee Anmol" tvg-language="Hindi" tvg-logo="https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11967-j9luigc0-v2/imageContent-11967-j9luigc0-m2.jpg" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpBYONR_j5CWTYVr4aFEh7IYYm7gwnQy3V4g&s" group-title="DishTV | Entertainment",Zee Anmol
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"QCNhNFd3TL63GmLDOZcOYw","k":"HD6fzl8BRUK-nNH3SRgSBA"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmol/default/manifest.mpd
+
+#EXTINF:-1 tvg-id="64" tvg-name="Zee Anmol Cinema" tvg-language="Hindi" tvg-logo="https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11091-j95hdiq8-v1/imageContent-11091-j95hdiq8-m1.jpg" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpBYONR_j5CWTYVr4aFEh7IYYm7gwnQy3V4g&s" group-title="DishTV | Movies",Zee Anmol Cinema
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gSQRy6i8QseesrGc14rT8w","k":"RooLjT1dQtilxBu4dTkKdA"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmolcinema/default/manifest.mpd
+
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ZEE_BANGLA_HD" tvg-name="Zee Bangla HD" tvg-language="bn" tvg-logo="https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BANGLA_HD/images/PORTRAIT_HD/PORTRAIT_HD_image.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpBYONR_j5CWTYVr4aFEh7IYYm7gwnQy3V4g&s" group-title="DishTV | Entertainment",Zee Bangla HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"Hfg-BYuGTaiWySiO72OxEw","k":"_DLyYjkFS1aqtIIlMFWY_g"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla/default/manifest.mpd
+
+#EXTINF:-1 tvg-id="254" tvg-name="Zee Bangla Cinema" tvg-language="Bengali" tvg-logo="https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11015-j8xbt7mg-v1/imageContent-11015-j8xbt7mg-m1.jpg" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpBYONR_j5CWTYVr4aFEh7IYYm7gwnQy3V4g&s" group-title="DishTV | Bengali",Zee Bangla Cinema
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"-7_Zzku-TYGLFt99_onwWw","k":"HpbQ-I73QOmC1vYQVyHIvA"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mpd
+
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ZEE_BHARAT" tvg-name="Zee Bharat" tvg-language="hi" tvg-logo="https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BHARAT/images/PORTRAIT_HD/PORTRAIT_HD_image.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpBYONR_j5CWTYVr4aFEh7IYYm7gwnQy3V4g&s" group-title="DishTV | News",Zee Bharat
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"EGFtfEvuQfGCW9gFxilRcg","k":"3IXyES9jR3-zn8FJSTxJvg"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeehindustan/default/manifest.mpd
+
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ZEE_BIHAR_JHARKHAND" tvg-name="Zee Bihar Jharkhand" tvg-language="bh" tvg-logo="https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BIHAR_JHARKHAND/images/PORTRAIT_HD/PORTRAIT_HD_image.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpBYONR_j5CWTYVr4aFEh7IYYm7gwnQy3V4g&s" group-title="DishTV | Regional",Zee Bihar Jharkhand
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"4exgmLUBSseq4LN_ctXoXg","k":"wElQ8l2OQQepboKOeRHlOw"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebiharjharkhand/default/manifest.mpd
+
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ZEE_BOLLYWOOD" tvg-name="Zee Bollywood" tvg-language="hi" tvg-logo="https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BOLLYWOOD/images/PORTRAIT_HD/PORTRAIT_HD_image.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpBYONR_j5CWTYVr4aFEh7IYYm7gwnQy3V4g&s" group-title="DishTV | Movies",Zee Bollywood
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"5hUjJgxhR0ayW5pVI_6aOQ","k":"ct2_N_dvSay7jhQOcnnnoQ"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood/default/manifest.mpd
+
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ZEE_BUSINESS" tvg-name="Zee Business" tvg-language="hi" tvg-logo="https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BUSINESS/images/PORTRAIT_HD/PORTRAIT_HD_image.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpBYONR_j5CWTYVr4aFEh7IYYm7gwnQy3V4g&s" group-title="DishTV | News",Zee Business
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"vvh4kuWMRG2JOxaoSHA7cA","k":"UZWfy8j-QJG1cLolS_dJrg"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebusiness/default/manifest.mpd
+
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ZEE_CINEMA_HD" tvg-name="Zee Cinema HD" tvg-language="hi" tvg-logo="https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA_HD/images/PORTRAIT_HD/PORTRAIT_HD_image.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpBYONR_j5CWTYVr4aFEh7IYYm7gwnQy3V4g&s" group-title="DishTV | Movies",Zee Cinema HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"Q1E7E_S1QuOckmWSHfwXJg","k":"sLJni80nTDe4iKbJh9UC7Q"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://d1g8wgjurz8via.cloudfront.net//bpk-tv//Zeecinema/default//manifest.mpd
+
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ZEE_CINEMA_HD" tvg-name="Zee Cinema HD" tvg-language="hi" tvg-logo="https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA_HD/images/PORTRAIT_HD/PORTRAIT_HD_image.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpBYONR_j5CWTYVr4aFEh7IYYm7gwnQy3V4g&s" group-title="DishTV | Movies",Zee Cinema HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"9WvqrJ8SRhaHLHQcnOT6Tg","k":"XUCpAyOPStmKu-0Yd9Tj0Q"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://d1g8wgjurz8via.cloudfront.net//bpk-tv//Zeecinemahd/default//manifest.mpd
+
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ZEE_CINEMALU_HD" tvg-name="Zee Cinemalu HD" tvg-language="te" tvg-logo="https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMALU_HD/images/PORTRAIT_HD/PORTRAIT_HD_image.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpBYONR_j5CWTYVr4aFEh7IYYm7gwnQy3V4g&s" group-title="DishTV | Regional",Zee Cinemalu HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"0nvAcmANQx-qfQyEQaX7Qw","k":"O2H2Ttx5SX2dox1hKoj46g"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://d1g8wgjurz8via.cloudfront.net//bpk-tv//Zeecinemalu/default//manifest.mpd
+
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ZEE_KANNADA_HD" tvg-name="Zee Kannada HD" tvg-language="kn" tvg-logo="https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_KANNADA_HD/images/PORTRAIT_HD/PORTRAIT_HD_image.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpBYONR_j5CWTYVr4aFEh7IYYm7gwnQy3V4g&s" group-title="DishTV | Regional",Zee Kannada HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"UOcUtl6tRTy_q5sgvtXHnQ","k":"vAjhCLnuT2W5nLna2VMvPw"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeekannada/default/manifest.mpd
+
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ZEE_MARATHI_HD" tvg-name="Zee Marathi HD" tvg-language="mr" tvg-logo="https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_MARATHI_HD/images/PORTRAIT_HD/PORTRAIT_HD_image.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpBYONR_j5CWTYVr4aFEh7IYYm7gwnQy3V4g&s" group-title="DishTV | Entertainment",Zee Marathi HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"Ko1sk46mRySPehDu3Dnwlw","k":"fYH-uE7YS9iP3Fyp3jwW2g"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeemarathi/default/manifest.mpd
+
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ZEE_SARTHAK" tvg-name="Zee Sarthak" tvg-language="or" tvg-logo="https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_SARTHAK/images/PORTRAIT_HD/PORTRAIT_HD_image.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpBYONR_j5CWTYVr4aFEh7IYYm7gwnQy3V4g&s" group-title="DishTV | Regional",Zee Sarthak
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"7K0LCXtXQHikob3iS_2y5Q","k":"VouxPQTbS3OIZPbISUdM1Q"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeesarthak/default/manifest.mpd
+
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ZEE_TALKIES_HD" tvg-name="Zee Talkies HD" tvg-language="mr" tvg-logo="https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TALKIES_HD/images/PORTRAIT_HD/PORTRAIT_HD_image.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpBYONR_j5CWTYVr4aFEh7IYYm7gwnQy3V4g&s" group-title="DishTV | Movies",Zee Talkies HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"8IHzJ1Y3TD2CZeGh4ClhTg","k":"NWo6bYzjTUmoStRksgsaPg"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetalkies/default/manifest.mpd
+
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ZEE_TELUGU_HD" tvg-name="Zee Telugu HD" tvg-language="te" tvg-logo="https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TELUGU_HD/images/PORTRAIT_HD/PORTRAIT_HD_image.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpBYONR_j5CWTYVr4aFEh7IYYm7gwnQy3V4g&s" group-title="DishTV | Regional",Zee Telugu HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"HOXNdaatRKOKfRuNuvnDMA","k":"ZX_I59UzRWywZE_gNFiksg"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetelgu/default/manifest.mpd
+
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ZEE_TV_HD" tvg-name="Zee TV HD" tvg-language="hi" tvg-logo="https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TV_HD/images/PORTRAIT_HD/PORTRAIT_HD_image.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpBYONR_j5CWTYVr4aFEh7IYYm7gwnQy3V4g&s" group-title="DishTV | Entertainment",Zee TV HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"7QaM-E8GQMy8fA45XAonLg","k":"u3IhkPK7RGORAgQRp9CCiw"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetv/default/manifest.mpd
+
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ZING" tvg-name="Zing" tvg-language="hi" tvg-logo="https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZING/images/PORTRAIT_HD/image.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpBYONR_j5CWTYVr4aFEh7IYYm7gwnQy3V4g&s" group-title="DishTV | Music",Zing
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"8PsU7r5HSmq3TIMB1VpyJA","k":"-fiy4wcERYuNuESihc4yvg"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing/default/manifest.mpd
+
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ZOOM" tvg-name="Zoom" tvg-language="hi" tvg-logo="https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZOOM/images/PORTRAIT_HD/image.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpBYONR_j5CWTYVr4aFEh7IYYm7gwnQy3V4g&s" group-title="DishTV | Music",Zoom
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"hu3snjt9QEKk1KHKFPhH7g","k":"ne9DFfAAQBmjcFvLPPMMow"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zoom2/default/manifest.mpd
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"X95oEAp4VtBVA4I2/8fISg", "kid":"Afe5979+Ql+G1t/UeDkOPw" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SUN_BANGLA" tvg-name="Sun Bangla" tvg-language="bn" tvg-logo="https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUN_BANGLA/images/PORTRAIT_HD/image.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpBYONR_j5CWTYVr4aFEh7IYYm7gwnQy3V4g&s" group-title="DishTV | Regional",Sun Bangla
+https://livestream7.sunnxt.com/bf76ee92dd01473bb2eb57d137294484/SunBanglaB_IN_index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"/4I92+ViXDXT6T8O1FIBFQ", "kid":"Z1IBWs8IRXKgjf4heW+LRQ" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SUN_TV_HD" tvg-name="Sun TV HD" tvg-language="ta" tvg-logo="https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUN_TV_HD/images/PORTRAIT_HD/image.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpBYONR_j5CWTYVr4aFEh7IYYm7gwnQy3V4g&s" group-title="DishTV | Entertainment",Sun TV HD
+https://livestream1.sunnxt.com/05b5df1221764bca9867054c5e65ee62/SunTVB_IN_index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"+2YvdC5fXgxhp8HGbSsBmg", "kid":"OJFVfxyxTe23VFv1JJnXSA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SUN_TV_HD" tvg-name="Sun TV HD" tvg-language="ta" tvg-logo="https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUN_TV_HD/images/PORTRAIT_HD/image.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpBYONR_j5CWTYVr4aFEh7IYYm7gwnQy3V4g&s" group-title="DishTV | Entertainment",Sun TV HD
+https://livestream2.sunnxt.com/19ee29194c4d4fc286c3e697362e60cd/SunTVHDB_IN_index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"MImf2lyk37WkU1zhDE1zQQ", "kid":"XqkKHzseSgqbcsjg9Km/MQ" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SUN_MARATHI_HD" tvg-name="Sun Marathi HD" tvg-language="mr" tvg-logo="https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUN_MARATHI_HD/images/PORTRAIT_HD/image.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpBYONR_j5CWTYVr4aFEh7IYYm7gwnQy3V4g&s" group-title="DishTV | Movies",Sun Marathi HD
+https://livestream9.sunnxt.com/b0aacde03b744564870634ecb10e8a31/SunMarathiB_IN_index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"6Ab+wb8cioRCFhGMlLrQIA", "kid":"taLG0TuXSN6c7rwKityK8w" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SUN_MUSIC_HD" tvg-name="Sun Music HD" tvg-language="ta" tvg-logo="https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUN_MUSIC_HD/images/PORTRAIT_HD/image.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpBYONR_j5CWTYVr4aFEh7IYYm7gwnQy3V4g&s" group-title="DishTV | Entertainment",Sun Music HD
+https://livestream.sunnxt.com/d434796d90fa4dc9b7ecfacedbe683f1/SunMusicHDB_IN_index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"VwG+5O6bYl0MjtfeAyp0eA", "kid":"Id3BTE2pTAedT0w0Ps3NgA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SUN_MUSIC_HD" tvg-name="Sun Music HD" tvg-language="ta" tvg-logo="https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUN_MUSIC_HD/images/PORTRAIT_HD/image.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpBYONR_j5CWTYVr4aFEh7IYYm7gwnQy3V4g&s" group-title="DishTV | Entertainment",Sun Music HD
+https://livestream.sunnxt.com/585bb66e95c84ccea3f828c96b3567b5/SunMusicB_IN_index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"OShQX0BUzx+pNSdv2+QJkg", "kid":"gVRt8/QcSm28mk78fy+2Jg" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SUN_LIFE" tvg-name="Sun Life" tvg-language="ta" tvg-logo="https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUN_LIFE/images/PORTRAIT_HD/image.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpBYONR_j5CWTYVr4aFEh7IYYm7gwnQy3V4g&s" group-title="DishTV | Regional",Sun Life
+https://livestream.sunnxt.com/6b79451f54284b3fb680fd717ee008dc/SunLifeB_IN_index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"xfyqjfVmM2XZOKUJh/cbhA", "kid":"Tfj5IDhuQ0a6a3166TXWaA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SUN_NEWS" tvg-name="Sun News" tvg-language="ta" tvg-logo="https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUN_NEWS/images/PORTRAIT_HD/image.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpBYONR_j5CWTYVr4aFEh7IYYm7gwnQy3V4g&s" group-title="DishTV | News",Sun News
+https://livestream3.sunnxt.com/491c99fb6d0c49e88e6349170d890a2f/SunNewsB_IN_index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"qnUa6KQaxvhxQXNBY//jsg", "kid":"QmEX0RWwRJewsNQl6AlRhA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_KTV_HD" tvg-name="KTV HD" tvg-language="ta" tvg-logo="https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_KTV_HD/images/PORTRAIT_HD/image.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpBYONR_j5CWTYVr4aFEh7IYYm7gwnQy3V4g&s" group-title="DishTV | Regional",KTV HD
+https://livestream.sunnxt.com/6ae70edd4c1440379f5311e8fbddc7c1/KTVB_IN_index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"O9ZGdT9JA+7jtARkbHgZ0w", "kid":"NR5Uc5G7RcusZtLLnsDClA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_KTV_HD" tvg-name="KTV HD" tvg-language="ta" tvg-logo="https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_KTV_HD/images/PORTRAIT_HD/image.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpBYONR_j5CWTYVr4aFEh7IYYm7gwnQy3V4g&s" group-title="DishTV | Regional",KTV HD
+https://livestream.sunnxt.com/61477b4c8d8d45d5a49e044cc1dffc60/KTVHDB_IN_index.mpd
+#by Xfire flix
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"glnODBEnJaTSyU0VQgdCXw", "kid":"6ug4zNddSh+/9v190cl3gA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SURYA_HD" tvg-name="Surya HD" tvg-language="ml" tvg-logo="https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SURYA_HD/images/PORTRAIT_HD/image.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpBYONR_j5CWTYVr4aFEh7IYYm7gwnQy3V4g&s" group-title="DishTV | Regional",Surya HD
+https://livestream15.sunnxt.com/d719fad367614ee5baad747822767ad8/SuryaTVHDB_IN_index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"be6GY+Y8yPjdqEeLiy87cQ", "kid":"VuH1tbcuTkWpi28ofCZauQ" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SURYA_HD" tvg-name="Surya HD" tvg-language="ml" tvg-logo="https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SURYA_HD/images/PORTRAIT_HD/image.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpBYONR_j5CWTYVr4aFEh7IYYm7gwnQy3V4g&s" group-title="DishTV | Regional",Surya HD
+https://livestream6.sunnxt.com/30612a1b269d4a18aa14657641c47515/SuryaTVB_IN_index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"LoRgxH0/AWk+GT26WWOl4Q", "kid":"a2e8zvcCTy2im0LhDcE/iQ" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SURYA_MOVIES" tvg-name="Surya Movies" tvg-language="ml" tvg-logo="https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SURYA_MOVIES/images/PORTRAIT_HD/image.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpBYONR_j5CWTYVr4aFEh7IYYm7gwnQy3V4g&s" group-title="DishTV | Regional",Surya Movies
+https://livestream.sunnxt.com/e24ee14c395945bd8ccb065e1bce8b9b/SuryaMoviesB_IN_index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"PIss+GEcND5qIxtqnHyLWA", "kid":"JaHSpMP4SLGu2RGtaR/iMg" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SURYA_MUSIC" tvg-name="Surya Music" tvg-language="ml" tvg-logo="https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SURYA_MUSIC/images/PORTRAIT_HD/image.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpBYONR_j5CWTYVr4aFEh7IYYm7gwnQy3V4g&s" group-title="DishTV | Regional",Surya Music
+https://livestream.sunnxt.com/8c2352ff54954e7b9a4188045dcf3b27/SuryaMusicB_IN_index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"m60orW8j27kXxj7mgPZqHw", "kid":"EVY7AKRrQ/Kg+A7PQqT7dw" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SURYA_COMEDY" tvg-name="Surya Comedy" tvg-language="ml" tvg-logo="https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SURYA_COMEDY/images/PORTRAIT_HD/image.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpBYONR_j5CWTYVr4aFEh7IYYm7gwnQy3V4g&s" group-title="DishTV | Regional",Surya Comedy
+https://livestream.sunnxt.com/6505e922bf164423ad122f404747356a/SuryaComedyB_IN_index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Zt2xoBd1P5ZuIEQqsvkfGA", "kid":"kbXy0CBcRSe3qj5B814efw" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_UDAYA_HD" tvg-name="Udaya HD" tvg-language="kn" tvg-logo="https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_UDAYA_HD/images/PORTRAIT_HD/image.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpBYONR_j5CWTYVr4aFEh7IYYm7gwnQy3V4g&s" group-title="DishTV | Regional",Udaya HD
+https://livestream16.sunnxt.com/a8d28f18944c4946ad7133938860e7cf/UdayaTVHDB_IN_index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Sua1R+XI9RMpoS15U+5Mcg", "kid":"MIRoPIAjS2u/aav9W7JYoA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_UDAYA_HD" tvg-name="Udaya HD" tvg-language="kn" tvg-logo="https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_UDAYA_HD/images/PORTRAIT_HD/image.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpBYONR_j5CWTYVr4aFEh7IYYm7gwnQy3V4g&s" group-title="DishTV | Regional",Udaya HD
+https://livestream5.sunnxt.com/e2f36b5d0be74780a041a8f5b65bc7e6/UdayaTVB_IN_index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"g8KqKUZDLx3tfASe/nn+7w", "kid":"tNv/tReCRzKpVcoC3Wqs2Q" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_UDAYA_MOVIES" tvg-name="UDAYA MOVIES" tvg-language="kn" tvg-logo="https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_UDAYA_MOVIES/images/PORTRAIT_HD/image.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpBYONR_j5CWTYVr4aFEh7IYYm7gwnQy3V4g&s" group-title="DishTV | Regional",UDAYA MOVIES
+https://livestream.sunnxt.com/1c02547243c041eea5dab1c343018e90/UdayaMoviesB_IN_index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"up/p3RuOVCHi+MnSO9hpIg", "kid":"msNHKwBARZyrUgNerW/hrg" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_UDAYA_MUSIC" tvg-name="Udaya Music" tvg-language="kn" tvg-logo="https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_UDAYA_MUSIC/images/PORTRAIT_HD/image.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpBYONR_j5CWTYVr4aFEh7IYYm7gwnQy3V4g&s" group-title="DishTV | Music",Udaya Music
+https://livestream.sunnxt.com/8034b7519d6a4ab8929aa4279fda1f29/UdayaMusicB_IN_index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"HgJantflD6NbjeLJbMzdaw", "kid":"cTKXg663Tm6eEBT7nkww9A" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_UDAYA_COMEDY" tvg-name="Udaya Comedy" tvg-language="kn" tvg-logo="https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_UDAYA_COMEDY/images/PORTRAIT_HD/image.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpBYONR_j5CWTYVr4aFEh7IYYm7gwnQy3V4g&s" group-title="DishTV | Regional",Udaya Comedy
+https://livestream.sunnxt.com/8a3d3d8d679b4f9f83a8305b4ead0644/UdayaComedyB_IN_index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"r+lvYC/Wq+3NnCyM33ma/Q", "kid":"Lsb6W3f/QiOjdsK5gDL7+A" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_GEMINI_TV_HD" tvg-name="Gemini TV HD" tvg-language="ml" tvg-logo="https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GEMINI_TV_HD/images/PORTRAIT_HD/image.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpBYONR_j5CWTYVr4aFEh7IYYm7gwnQy3V4g&s" group-title="DishTV | Entertainment",Gemini TV HD
+https://livestream4.sunnxt.com/a1a61fa1811c4d20a5c2d5e14cdc0cd2/GeminiTVB_IN_index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"C+twEv/RMzYIidXVbiDeTQ", "kid":"iA3JRGCvQZe7v0Ohdvs6lQ" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_GEMINI_TV_HD" tvg-name="Gemini TV HD" tvg-language="ml" tvg-logo="https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GEMINI_TV_HD/images/PORTRAIT_HD/image.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpBYONR_j5CWTYVr4aFEh7IYYm7gwnQy3V4g&s" group-title="DishTV | Entertainment",Gemini TV HD
+https://livestream14.sunnxt.com/e778d9c98488494b9c9b38f9c48b63ec/GeminiTVHDB_IN_index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4GO7MDUdrFcrrCTtQ9MEsg", "kid":"DDcjGIADR4e86f02B6oJ6g" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_GEMINI_MOVIES_HD" tvg-name="Gemini Movies HD" tvg-language="te" tvg-logo="https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GEMINI_MOVIES_HD/images/PORTRAIT_HD/image.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpBYONR_j5CWTYVr4aFEh7IYYm7gwnQy3V4g&s" group-title="DishTV | Movies",Gemini Movies HD
+https://livestream.sunnxt.com/ec0d4961a002442295f91efc9d675c9d/GeminiMoviesHDB_IN_index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4GO7MDUdrFcrrCTtQ9MEsg", "kid":"DDcjGIADR4e86f02B6oJ6g" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_GEMINI_MOVIES_HD" tvg-name="Gemini Movies HD" tvg-language="te" tvg-logo="https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GEMINI_MOVIES_HD/images/PORTRAIT_HD/image.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpBYONR_j5CWTYVr4aFEh7IYYm7gwnQy3V4g&s" group-title="DishTV | Movies",Gemini Movies HD
+https://livestream.sunnxt.com/6a59979ff0044fd3b6e0cb85d6f44432/GeminiMoviesB_IN_index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"TubcmpnYlNxBsIeNbqInkA", "kid":"diMFZ/PARROn5dEkmrZZgw" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_GEMINI_MUSIC_HD" tvg-name="Gemini Music HD" tvg-language="te" tvg-logo="https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GEMINI_MUSIC_HD/images/PORTRAIT_HD/image.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpBYONR_j5CWTYVr4aFEh7IYYm7gwnQy3V4g&s" group-title="DishTV | Music",Gemini Music HD
+https://livestream.sunnxt.com/6a6520e446604c6e9840e5bf3a3a7d95/GeminiMusicHDB_IN_index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"/8+d7m7eYr2HQNrPqgweWQ", "kid":"D6oulGn8Rf2vFygzM1HscQ" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_GEMINI_MUSIC_HD" tvg-name="Gemini Music HD" tvg-language="te" tvg-logo="https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GEMINI_MUSIC_HD/images/PORTRAIT_HD/image.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpBYONR_j5CWTYVr4aFEh7IYYm7gwnQy3V4g&s" group-title="DishTV | Music",Gemini Music HD
+https://livestream.sunnxt.com/52b94f70c6e64692b2497f5023b629cd/GeminiMusicB_IN_index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"LDfpf6BkZ1Hh8rhbxLn/ig", "kid":"k+aGzqwTTzCwp7w85adrJg" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_GEMINI_COMEDY" tvg-name="Gemini Comedy" tvg-language="te" tvg-logo="https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GEMINI_COMEDY/images/PORTRAIT_HD/image.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpBYONR_j5CWTYVr4aFEh7IYYm7gwnQy3V4g&s" group-title="DishTV | Regional",Gemini Comedy
+https://livestream.sunnxt.com/167c40e9521b470b87b4cf921fd0e146/GeminiComedyB_IN_index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"1tCtKppsxW4Y11V8fGk6Nw", "kid":"ltUVd5HqSBemakGeKFoTfw" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_GEMINI_LIFE" tvg-name="Gemini Life" tvg-language="te" tvg-logo="https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GEMINI_LIFE/images/PORTRAIT_HD/image.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpBYONR_j5CWTYVr4aFEh7IYYm7gwnQy3V4g&s" group-title="DishTV | Regional",Gemini Life
+https://livestream.sunnxt.com/a4b4f71a8b4344f3a280e906657a517a/GeminiLifeB_IN_index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"gS9V3N5oYZ/GrZWVGyQdLA", "kid":"1nShp/Q2QaKb2IZ9h8clmg" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ADITHYA_TV" tvg-name="Adithya TV" tvg-language="ta" tvg-logo="https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ADITHYA_TV/images/PORTRAIT_HD/image.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpBYONR_j5CWTYVr4aFEh7IYYm7gwnQy3V4g&s" group-title="DishTV | Regional",Adithya TV
+https://livestream.sunnxt.com/4d0eb3cde30247ada4ade679fdfbaf86/AdithyaTVB_IN_index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"t+Aauiwwex8FBX6RqdFQ0g", "kid":"4WQhz3w3TFeo9+kQSfWM2Q" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_KUSHI_TV" tvg-name="Kushi TV" tvg-language="te" tvg-logo="https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_KUSHI_TV/images/PORTRAIT_HD/PORTRAIT_HD_image.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpBYONR_j5CWTYVr4aFEh7IYYm7gwnQy3V4g&s" group-title="DishTV | Regional",Kushi TV
+https://livestream.sunnxt.com/4a736d41608849758a0aed36949ded30/KushiTVB_IN_index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"SIBGE5oeHWUyPP5LsbMLew", "kid":"Bdo4pG+3QDCI9BQ05E3pgA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_CHUTTI_TV" tvg-name="Chutti TV" tvg-language="ta" tvg-logo="https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CHUTTI_TV/images/PORTRAIT_HD/image.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpBYONR_j5CWTYVr4aFEh7IYYm7gwnQy3V4g&s" group-title="DishTV | Regional",Chutti TV
+https://livestream.sunnxt.com/3ed29d5b01b546eaa05d184cd87535f1/ChuttiTVB_IN_index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"+/i0oR/r99Lu0igwBpeRdg", "kid":"c1T7MzsMQVm8bEM8TbE9Dw" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_KOCHU_TV" tvg-name="Kochu TV" tvg-language="ml" tvg-logo="https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_KOCHU_TV/images/PORTRAIT_HD/image.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpBYONR_j5CWTYVr4aFEh7IYYm7gwnQy3V4g&s" group-title="DishTV | Regional",Kochu TV
+https://livestream.sunnxt.com/1893b9ab790747cb80a584873a608dcb/KochuTVB_IN_index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Kpqno/aYNMTzSEMMw/ZYuw", "kid":"GdilzAAvQRuJszklrNwz4A" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_CHINTU_TV" tvg-name="Chintu TV" tvg-language="kn" tvg-logo="https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CHINTU_TV/images/PORTRAIT_HD/image.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpBYONR_j5CWTYVr4aFEh7IYYm7gwnQy3V4g&s" group-title="DishTV | Regional",Chintu TV
+https://livestream.sunnxt.com/ed4c67ad957644b69361651d9101107e/ChintuTVB_IN_index.mpd
+
+#EXTINF:-1 tvg-id="ts267" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpBYONR_j5CWTYVr4aFEh7IYYm7gwnQy3V4g&s" group-title="DishTV | Movies", & Pictures ᴴᴰ
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=de8045e9f0fb4d03845dcc4a8bd7712a:6807bd09bda34ada83152908192af6d6
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd/default/index.mpd
+
+#EXTINF:-1 tvg-id="ts100" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/Zee_Action_2023_logo.png?20230801125521" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpBYONR_j5CWTYVr4aFEh7IYYm7gwnQy3V4g&s" group-title="DishTV | Movies", Zee Action
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9d7a1917ee3244d198193cdd1ff1feae:3c3e8d0259f748f1830f713a769760e7
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction/default/main.mpd
+
+#EXTINF:-1 tvg-id="ts677" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/lcMc75Xr.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpBYONR_j5CWTYVr4aFEh7IYYm7gwnQy3V4g&s" group-title="DishTV | Movies", Shorts Tv Active
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b994480f788d41ddbc805862ac469416:78a6a0fc1758483595da7113e58e4467
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Shortstv2/default/manifest.mpd
+
+#EXTINF:-1 tvg-id="ts943" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/BNu8WvFw.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpBYONR_j5CWTYVr4aFEh7IYYm7gwnQy3V4g&s" group-title="DishTV | Movies", Korean Drama Active
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ed197e7253c04946903f03bad9afac91:99ebb8683ea74b70a9fda1cbdc2cc1b4
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Koreandramas2/default/manifest.mpd
+
+#EXTINF:-1 tvg-id="ts9" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/9x_Jhakaas.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpBYONR_j5CWTYVr4aFEh7IYYm7gwnQy3V4g&s" group-title="DishTV | Music",9x Jhakaas
+#KODIPROP:inputstream.adaptive.license_type=clearkey  
+#KODIPROP:inputstream.adaptive.license_key=5911de35875644f4a48ee9d426be297f:4316b9b0a9814b4381425e1b01886dc5
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9xjhakaas2/default/main.mpd
+
+#EXTINF:-1 tvg-id="ts9" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/9X_Jalwa.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpBYONR_j5CWTYVr4aFEh7IYYm7gwnQy3V4g&s" group-title="DishTV | Music",9X Jalwa
+#KODIPROP:inputstream.adaptive.license_type=clearkey  
+#KODIPROP:inputstream.adaptive.license_key=0538cf4c5ed546a9956aadab2fdf3366:b0af534e1a5f459f9c751a0cb9d12d4c
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9xjalwa2/default/main.mpd
+
+#EXTINF:-1 tvg-id="ts9" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/9X_Tashan.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpBYONR_j5CWTYVr4aFEh7IYYm7gwnQy3V4g&s" group-title="DishTV | Music",9x Tashan
+#KODIPROP:inputstream.adaptive.license_type=clearkey  
+#KODIPROP:inputstream.adaptive.license_key=5774f9c8093547ac8796445049163c00:2716fd8f71974ffa82e68e198c8d91d6
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9xtashan2/default/main.mpd
+
+#EXTINF:-1 tvg-id="ts139" tvg-logo="https://a.jsrdn.com/hls/23111/9xm/logo_20240607_163326_70.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpBYONR_j5CWTYVr4aFEh7IYYm7gwnQy3V4g&s" group-title="DishTV | Music",9XM
+#KODIPROP:inputstream.adaptive.license_type=clearkey  
+#KODIPROP:inputstream.adaptive.license_key=29f970f3bdef4935b7b2b6ace0316266:8e7efefcf8c843a184977c6c7063487c
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9xm2/default/main.mpd
+
+#EXTINF:-1 tvg-id="ts9" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Music_India.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpBYONR_j5CWTYVr4aFEh7IYYm7gwnQy3V4g&s" group-title="DishTV | Music",Music India
+#KODIPROP:inputstream.adaptive.license_type=clearkey  
+#KODIPROP:inputstream.adaptive.license_key=e874f3a7e5de42fca2b2a93b318fa52e:a77f240d277c47a5a0bc934072c4d7da
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Musicindia2/default/main.mpd
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/wthfwe.jpeg" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpBYONR_j5CWTYVr4aFEh7IYYm7gwnQy3V4g&s" group-title="DishTV | Movies",Movies Now HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/vunjev.jpeg" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpBYONR_j5CWTYVr4aFEh7IYYm7gwnQy3V4g&s" group-title="DishTV | Movies",MNX HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/leazcc.jpeg" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpBYONR_j5CWTYVr4aFEh7IYYm7gwnQy3V4g&s" group-title="DishTV | Movies",MN+ HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+#EXTINF:-1 tvg-id="ts174" tvg-logo="https://tatalogo.pages.dev/174.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpBYONR_j5CWTYVr4aFEh7IYYm7gwnQy3V4g&s" group-title="DishTV | Movies", Romedy Now
+https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
