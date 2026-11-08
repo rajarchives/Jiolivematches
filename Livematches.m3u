@@ -18,7 +18,7 @@ https://wbd.skandha.tv/TLC_HD_India/TLC_HD_India.isml/.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.microsoft.playready
 #KODIPROP:inputstream.adaptive.license_key=https://dshp4r35.anycast.nagra.com/DSHP4R35/wvls/contentlicenseservice/v1/licenses
-#KODIPROP:inputstream.adaptive.stream_headers=Authorization=Bearer=eyJraWQiOiI0Nzk2MTEiLCJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ2ZXIiOiIxLjAiLCJ0eXAiOiJDb250ZW50QXV0aFoiLCJleHAiOjE3OTQxMzcyNjIsImp0aSI6ImU2NTViMTdiLWZhYzQtNDE2Mi05OWI0LTBmY2MyMjA3N2FjNiIsImNvbnRlbnRSaWdodHMiOlt7ImNvbnRlbnRJZCI6IkhFX0VfMTAxMDAiLCJ1c2FnZVJ1bGVzUHJvZmlsZUlkIjoiVGVzdCJ9XX0.FZFlEDxFhWLQGzf2n6cqlvdnLrIJe88SxHup52NqO6s
+#KODIPROP:inputstream.adaptive.stream_headers=Authorization=token=eyJraWQiOiI0Nzk2MTEiLCJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ2ZXIiOiIxLjAiLCJ0eXAiOiJDb250ZW50QXV0aFoiLCJleHAiOjE3OTQxMzcyNjIsImp0aSI6ImU2NTViMTdiLWZhYzQtNDE2Mi05OWI0LTBmY2MyMjA3N2FjNiIsImNvbnRlbnRSaWdodHMiOlt7ImNvbnRlbnRJZCI6IkhFX0VfMTAxMDAiLCJ1c2FnZVJ1bGVzUHJvZmlsZUlkIjoiVGVzdCJ9XX0.FZFlEDxFhWLQGzf2n6cqlvdnLrIJe88SxHup52NqO6s
 #EXTINF:-1 tvg-id="ts192" tvg-logo="https://images.seeklogo.com/logo-png/45/2/pictures-hd-logo-png_seeklogo-457044.png" group-logo="https://images.sftcdn.net/images/t_app-icon-s/p/b2fa1db8-e0e7-407a-a835-469ea8ca5ca1/1896889517/bheem-tv-icon.webp" group-title="BHEEM TV"| MOVIES",&Pictures HD
 https://d2o8pibksxtln6.cloudfront.net/live/media/And_Pictures_HD/dash/And_Pictures_HD.mpd
 
